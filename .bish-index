@@ -1,0 +1,10 @@
+./setup.py
+./autologin_middleware/splash.py
+./autologin_middleware/middleware.py
+./autologin_middleware/utils.py
+./autologin_middleware/__init__.py
+./tests/conftest.py
+./tests/__init__.py
+./tests/servers.py
+./tests/test_integration.py
+./tests/mockserver.py
